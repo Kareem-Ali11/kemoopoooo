@@ -1,0 +1,54 @@
+// Online C++ compiler to run C++ program online
+#include <iostream>
+#include <cmath>
+using namespace std ;
+
+func void (int x)
+{
+    int x ;
+    
+      if ( x = 'a' || 'o' || 'i' || 'e' || 'u' ) 
+    {
+    cout << " is vowel " ;    
+    }
+    else 
+    {
+        cout << "is false " ;
+    }
+    
+    return x ;
+    
+}
+
+
+int main() {
+    
+    // Q 1 
+    /*
+     int x , y, sum ;
+     cout << " enter tow number is : " << endl ;
+     cin >> x >> y ;
+     sum = x + y ;
+     cout << sum * 2  ;
+    */
+    
+    //Q 2
+   
+      // i , o ,a ,e ,u ,
+   
+           
+            
+            
+            
+    //Q 3 
+    
+    int arr[10]={} ;
+   
+       
+    
+    
+    
+    
+    
+    return 0;
+}
